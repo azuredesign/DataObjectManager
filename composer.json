@@ -1,14 +1,5 @@
 {
     "name": "azuredesign/dataobjectmanager",
     "description": "DataObjectManager for Silverstripe",
-    "type": "silverstripe-module",
-    "require": {
-        "azuredesign/uploadify": "2.4.*"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/azuredesign/Uploadify"
-        }
-    ]
+    "type": "silverstripe-module"
 }
