@@ -1,4 +1,5 @@
 {
     "name": "azuredesign/DataObjectManager",
-    "description": "DataObjectManager for Silverstripe"
+    "description": "DataObjectManager for Silverstripe",
+    "type": "silverstripe-module"
 }
